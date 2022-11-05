@@ -2,6 +2,8 @@
 // Treat it like a data structure - add methods to interact
 // with and manipulate the data.
 
+// use list
+
 var Friends = {
   // TODO: Define how you want to store your list of friends.
 

@@ -2,9 +2,24 @@
 // Treat it like a data structure - add methods to interact
 // with and manipulate the data.
 
+// use list
+// Room holds messages
+// adds to friends
+
 var Rooms = {
 
   // TODO: Define how you want to store the list of rooms
+  var container = [];
+  // if (container.includes(roomname)) {
+  //     }
+
+  // var roomMaker = (roomname) => {
+
+
+
+
+
+
   _data: null,
 
   // TODO: Define methods which allow you to add rooms, update the list,
