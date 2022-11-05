@@ -9,7 +9,6 @@
 var Rooms = {
 
   // TODO: Define how you want to store the list of rooms
-  var container = [];
   // if (container.includes(roomname)) {
   //     }
 
